@@ -1,0 +1,19 @@
+# Node Modules
+Frontened/node_modules
+Backened/node_modules
+
+# Build Folders
+Frontened/dist
+Backened/dist
+
+# Environment Files
+.env
+Backened/.env
+Frontened/.env
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
